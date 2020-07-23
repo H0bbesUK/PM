@@ -1,0 +1,69 @@
+“I USER want to be able to NEED so that I can BENEFIT”
+“I WHO want to be able to WHAT so that I can WHY”
+
+
+
+1. Title
+- Item 1
+
+As a user I need a page to view the notebooks available to my account
+
++*MAIN ACCEPTANCE CRITERIA*+
++S C E N A R I O - 1:+ *_The User's goal & event_*
+*GIVEN*
+*{color:#205081}WHEN{color}*
+*_{color:#14892c}THEN{color}_*
+*{color:#f691b2}inVision:{color}*
+
++S C E N A R I O - 2:+ *_ _*
+*GIVEN*
+*{color:#205081}WHEN{color}*
+*_{color:#14892c}THEN{color}_*
+
++S C E N A R I O - 3:+ *_ _*
+*GIVEN*
+*{color:#205081}WHEN{color}*
+*_{color:#14892c}THEN{color}_*
+*{color:#f691b2}inVision:{color}*
+
+- Item 2
+As a user I need to add a notebook, so that my team can view project related details
+
++*MAIN ACCEPTANCE CRITERIA*+
++S C E N A R I O - 1:+ *_The User's goal & event_*
+*GIVEN*
+*{color:#205081}WHEN{color}*
+*_{color:#14892c}THEN{color}_*
+*{color:#f691b2}inVision:{color}*
+
++S C E N A R I O - 2:+ *_ _*
+*GIVEN*
+*{color:#205081}WHEN{color}*
+*_{color:#14892c}THEN{color}_*
+
++S C E N A R I O - 3:+ *_ _*
+*GIVEN*
+*{color:#205081}WHEN{color}*
+*_{color:#14892c}THEN{color}_*
+*{color:#f691b2}inVision:{color}*
+
+- Item 3
+As a user I need the option to manage notebooks, so that I can share or delete the content.
+
++*MAIN ACCEPTANCE CRITERIA*+
++S C E N A R I O - 1:+ *_The User's goal & event_*
+*GIVEN*
+*{color:#205081}WHEN{color}*
+*_{color:#14892c}THEN{color}_*
+*{color:#f691b2}inVision:{color}*
+
++S C E N A R I O - 2:+ *_ _*
+*GIVEN*
+*{color:#205081}WHEN{color}*
+*_{color:#14892c}THEN{color}_*
+
++S C E N A R I O - 3:+ *_ _*
+*GIVEN*
+*{color:#205081}WHEN{color}*
+*_{color:#14892c}THEN{color}_*
+*{color:#f691b2}inVision:{color}*
