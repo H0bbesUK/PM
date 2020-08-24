@@ -1,0 +1,36 @@
+S C E N A R I O - 1b: IP address History
+GIVEN
+I am editing an API
+WHENI click on the History tab
+THEN
+I am taken to the History screen
+Invision:  
+
+S C E N A R I O - 1c: IP address History - Items per page
+GIVEN
+I am on the API History tab
+WHEN
+I click on the Items per page dropdown
+THEN
+I can select 10, 25, 50, 100 or All results per page
+
+S C E N A R I O - 1d: IP address History - Pagination
+GIVEN
+I am on the API History tab
+WHEN
+I click forward or backward arrow for pages
+THEN
+I am taken to the next or previous page of results
+
+S C E N A R I O - 1e: IP address History - select page
+GIVEN
+I am on the API History tab
+WHEN
+I click the arrow for X Page of X and select a page from the results
+THEN
+I am taken to that page
+
+NOTE
+Scenario 1d and 1e will be calculated based on the default 10 items per page unless the user has selected another value for items per page. 
+For example, if the user selects 25 items per page, and then selects next page or Page 2, then the next page will start at result 26 up to 50.
+
