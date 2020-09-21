@@ -34,3 +34,14 @@ NOTE
 Scenario 1d and 1e will be calculated based on the default 10 items per page unless the user has selected another value for items per page. 
 For example, if the user selects 25 items per page, and then selects next page or Page 2, then the next page will start at result 26 up to 50.
 
+
+S C E N A R I O - 1f: Sorting by Name, Variables, Accounts, ID, Date Created
+GIVEN
+I am on the Affiliate main page
+WHEN
+I click on any of the Sort icons (up/down arrow)
+THEN
+I am able to sort by Name, Variables, Accounts, ID, Date Created (whichever of the heading icons I clicked)
+
+Note
+The first time I click on the icon, the table of results is sorted by that heading I click and it is sorted Ascending, If I then click that heading Sort icons again, the results will be DESCENDING
