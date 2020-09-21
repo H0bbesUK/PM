@@ -44,4 +44,4 @@ THEN
 I am able to sort by Name, Variables, Accounts, ID, Date Created (whichever of the heading icons I clicked)
 
 Note
-The first time I click on the icon, the table of results is sorted by that heading I click and it is sorted Ascending, If I then click that heading Sort icons again, the results will be DESCENDING
+The first time I click on the icon, the table of results is sorted by that heading I click and it is sorted Ascending, If I then click that same heading Sort icons again, the results will be DESCENDING
